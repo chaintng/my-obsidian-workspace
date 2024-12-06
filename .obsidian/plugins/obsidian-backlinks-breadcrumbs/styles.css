@@ -1,0 +1,14 @@
+.backlinks-breadcrumbs {
+    max-width: var(--max-width);
+    width: var(--line-width);
+    margin-inline: var(--content-margin) !important;
+    /* margin: 0 auto 0.5em auto; */
+    font-size: var(--font-ui-small);
+    /* width: 100%; */
+    color: var(--text-muted);
+}
+
+.backlinks-breadcrumbs .internal-link {
+    cursor: var(--cursor-link);
+    text-decoration: none;
+}

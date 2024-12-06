@@ -1,0 +1,12 @@
+{
+  "showViewHeader": true,
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "custom",
+    "multi-columns"
+  ],
+  "baseFontSizeAction": false
+}

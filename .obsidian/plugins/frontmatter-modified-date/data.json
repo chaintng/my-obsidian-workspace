@@ -1,0 +1,18 @@
+{
+  "frontmatterProperty": "modified",
+  "createdDateProperty": "created",
+  "momentFormat": "",
+  "storeHistoryLog": false,
+  "historyNewestFirst": false,
+  "historyMaxItems": 0,
+  "excludedFolders": [
+    "ZZ - Settings",
+    "1. Inbox/Journals/Transcripts"
+  ],
+  "useKeyupEvents": false,
+  "onlyUpdateExisting": false,
+  "timeout": 2,
+  "excludeField": "exclude_modified_update",
+  "appendField": "append_modified_update",
+  "appendMaximumFrequency": "day"
+}

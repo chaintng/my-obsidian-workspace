@@ -1,0 +1,10 @@
+{
+  "id": "quick-share-note-to-gist",
+  "name": "Quick Share Note to gist",
+  "version": "1.0.18",
+  "minAppVersion": "0.15.0",
+  "description": "Quick share notes to GitHub gist and its image by upload images to Imgur.",
+  "author": "Por Chainarong Tangsurakit",
+  "authorUrl": "https://github.com/chaintng",
+  "isDesktopOnly": false
+}

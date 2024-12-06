@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-auto-backlinks",
+  "name": "Auto Backlinks",
+  "version": "1.2.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically creates backlinks for files based on their paths.",
+  "author": "Jack Vaughan",
+  "authorUrl": "https://github.com/jackvaughan09",
+  "isDesktopOnly": false
+}

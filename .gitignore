@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+git_diff.txt
+
+# iCloud files
+*.icloud
+
+# Obsidian files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash
+
+# Copilot Index Files
+.obsidian/copilot-*.*
+
+# Archives document
+4. Resources/Archives/copilot-conversations
+
+# Voice Journal
+1. Inbox/Journals/**/*.webm
+1. Inbox/Journals/**/*.m4a
+1. Inbox/Journals/**/*.wav
+1. Inbox/Journals/**/*.mp3
+*.out
+
+.vscode

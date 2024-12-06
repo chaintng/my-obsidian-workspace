@@ -1,0 +1,100 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd-uri:choice:01948f65-4013-4d7d-96f1-779f48ae18a1",
+      "icon": "arrow-right-circle",
+      "name": "QuickAdd: Temp Note",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd-uri:choice:872c1edd-0f37-4e13-9894-44a5b260455e",
+      "icon": "lucide-pencil",
+      "name": "QuickAdd: Quick Note",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd-uri:choice:25f7e6af-a275-418a-8967-ad1894a2c04b",
+      "icon": "calendar",
+      "name": "QuickAdd: Add Today Journal",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd-uri:choice:a268d62e-d8a9-4916-a784-48e4f9aa2606",
+      "icon": "check-square",
+      "name": "QuickAdd: Add Today TODO Task",
+      "mode": "any"
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "target",
+      "name": "Files: Reveal current file in navigation",
+      "mode": "any"
+    },
+    {
+      "id": "whisper:start-stop-recording",
+      "icon": "volume-2",
+      "name": "Whisper: Start/stop recording",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Files: Reveal current file in navigation",
+      "mode": "49e65ea10ebc06a0"
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Files: Reveal current file in navigation",
+      "mode": "any"
+    }
+  ],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "file-explorer:reveal-active-file"
+        }
+      ],
+      "name": "My Test Macro",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open command palette",
+      "Insert template",
+      "Open quick switcher",
+      "Templater",
+      "Omnisearch",
+      "Omnivore",
+      "Open graph view",
+      "Create new canvas"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

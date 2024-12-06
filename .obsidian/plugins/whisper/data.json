@@ -1,0 +1,12 @@
+{
+  "apiKey": "",
+  "apiUrl": "https://api.openai.com/v1/audio/transcriptions",
+  "model": "whisper-1",
+  "prompt": "",
+  "language": "",
+  "saveAudioFile": true,
+  "saveAudioFilePath": "1. Inbox/Journals/Transcripts",
+  "debugMode": true,
+  "createNewFileAfterRecording": true,
+  "createNewFileAfterRecordingPath": "1. Inbox/Journals/Transcripts"
+}

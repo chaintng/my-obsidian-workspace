@@ -1,0 +1,37 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "ZZ - Settings/Template/General.md"
+    },
+    {
+      "folder": "3. Areas/🏠 Personal/Guitar Chords",
+      "template": "ZZ - Settings/Template/Guitar Chord Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "ZZ - Settings/Template/dataview-queries/Generate TOC for Collections and Backlinks.md",
+    "ZZ - Settings/Template/dataview-queries/Generate TOC for Backlink Only.md",
+    "ZZ - Settings/Template/dataview-queries/Generate TOC for Collections Only.md",
+    "ZZ - Settings/Template/dataview-queries/Gallery Template.md"
+  ],
+  "startup_templates": [
+    "ZZ - Settings/Template/General.md"
+  ]
+}

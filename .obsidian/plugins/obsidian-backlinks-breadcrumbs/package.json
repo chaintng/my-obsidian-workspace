@@ -1,0 +1,26 @@
+{
+  "name": "obsidian-backlinks-breadcrumbs",
+  "version": "0.1.2",
+  "description": "A simple and lightweight Obsidian plugin to display a breadcrumbs navigation from backlinks back to your Home/Index file.",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loiccattani/obsidian-backlinks-breadcrumbs.git"
+  },
+  "keywords": [
+    "Obsidian",
+    "Obsidian-plugin",
+    "breadcrumbs",
+    "backlinks"
+  ],
+  "author": "Loïc Cattani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loiccattani/obsidian-backlinks-breadcrumbs/issues"
+  },
+  "homepage": "https://github.com/loiccattani/obsidian-backlinks-breadcrumbs#readme"
+}
