@@ -48,7 +48,7 @@ hidden: true
 label: 🗓️ Journal
 action:
   type: command
-  command: quickadd-uri:choice:8623d502-d1b1-4a90-a332-cb9a3c8ee6a3
+  command: quickadd:choice:1b6a60d1-6c43-4847-94fa-0240d184c276
 ```
 
 ```meta-bind-button
@@ -58,7 +58,7 @@ hidden: true
 label: 📙 New
 action:
   type: command
-  command: quickadd-uri:choice:872c1edd-0f37-4e13-9894-44a5b260455e
+  command: quickadd:choice:872c1edd-0f37-4e13-9894-44a5b260455e
 ```
 
 ```meta-bind-button
@@ -68,7 +68,7 @@ hidden: true
 label: 🌎 Bookmark Website
 action:
   type: command
-  command: quickadd-uri:choice:f5e97f98-d008-4a8c-ae0c-3c1b1fd031a9
+  command: quickadd:choice:f5e97f98-d008-4a8c-ae0c-3c1b1fd031a9
 ```
 
 ```meta-bind-button
@@ -78,7 +78,7 @@ hidden: true
 label: 💼 Work Adhoc
 action:
   type: command
-  command: quickadd-uri:choice:5e3a95d3-fba7-4f63-a6ba-fa9e882d9dcd
+  command: quickadd:choice:5e3a95d3-fba7-4f63-a6ba-fa9e882d9dcd
 ```
 
 ```meta-bind-button
@@ -88,5 +88,5 @@ hidden: true
 label: 📝 Temp Note
 action:
   type: command
-  command: quickadd-uri:choice:01948f65-4013-4d7d-96f1-779f48ae18a1
+  command: quickadd:choice:01948f65-4013-4d7d-96f1-779f48ae18a1
 ```

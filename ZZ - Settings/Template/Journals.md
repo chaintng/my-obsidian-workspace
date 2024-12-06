@@ -7,6 +7,9 @@ tags:
   - journals
 journals:
 ---
+
+`= choice(length(this.title) != 0, "# " + this.title, "")`
+
 ## Today Journal `BUTTON[voice-journal]`
 - 
 
