@@ -2,6 +2,8 @@
 
 Welcome to my personal workspace! Here you'll find all the plugins and settings I use to supercharge my **Personal Knowledge Management** workflow. 💪
 
+![Workspace Demo](./2.%20Projects/Learn%20How%20to%20Use%20Obsidians/attachments/workspace-demo.png)
+
 # How to Use 🛠️
 
 To get started, just clone this project and open the Obsidian vault pointing to this directory. Easy peasy! 😎
