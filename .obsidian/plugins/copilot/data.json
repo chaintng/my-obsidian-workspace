@@ -28,7 +28,7 @@
   "defaultOpenArea": "view",
   "customPromptsFolder": "ZZ - Settings/copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
-  "qaExclusions": "ZZ - Settings,4. Resources/Archives,4. Resources/web-clipping,*.png,*.jpg,*.jpeg,*.wav,*.m4a,*.mp3,.trash,.obsidian,4. Resources/Contacts,*.json,*.js,*.css,*.pdf,*.webp,*.webm,1. Inbox/Journals/Transcripts",
+  "qaExclusions": "ZZ - Settings,🏠 Personal/4. Archives/copilot-conversations,🏠 Personal/3. Resources/web-clipping,*.png,*.jpg,*.jpeg,*.wav,*.m4a,*.mp3,.trash,.obsidian,🏠 Personal/3. Resources/Contacts,*.json,*.js,*.css,*.pdf,*.webp,*.webm,🏠 Personal/📝 Journals/Transcripts,#sensitive",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],

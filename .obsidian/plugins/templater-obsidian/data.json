@@ -17,10 +17,6 @@
     {
       "folder": "/",
       "template": "ZZ - Settings/Template/General.md"
-    },
-    {
-      "folder": "3. Areas/🏠 Personal/Guitar Chords",
-      "template": "ZZ - Settings/Template/Guitar Chord Template.md"
     }
   ],
   "syntax_highlighting": true,

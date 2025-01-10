@@ -6,25 +6,25 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "quickadd-uri:choice:01948f65-4013-4d7d-96f1-779f48ae18a1",
+      "id": "quickadd:choice:01948f65-4013-4d7d-96f1-779f48ae18a1",
       "icon": "arrow-right-circle",
       "name": "QuickAdd: Temp Note",
       "mode": "any"
     },
     {
-      "id": "quickadd-uri:choice:872c1edd-0f37-4e13-9894-44a5b260455e",
+      "id": "quickadd:choice:872c1edd-0f37-4e13-9894-44a5b260455e",
       "icon": "lucide-pencil",
       "name": "QuickAdd: Quick Note",
       "mode": "any"
     },
     {
-      "id": "quickadd-uri:choice:25f7e6af-a275-418a-8967-ad1894a2c04b",
+      "id": "quickadd:choice:25f7e6af-a275-418a-8967-ad1894a2c04b",
       "icon": "calendar",
       "name": "QuickAdd: Add Today Journal",
       "mode": "any"
     },
     {
-      "id": "quickadd-uri:choice:a268d62e-d8a9-4916-a784-48e4f9aa2606",
+      "id": "quickadd:choice:a268d62e-d8a9-4916-a784-48e4f9aa2606",
       "icon": "check-square",
       "name": "QuickAdd: Add Today TODO Task",
       "mode": "any"

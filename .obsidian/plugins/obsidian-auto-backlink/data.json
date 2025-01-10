@@ -1,7 +1,11 @@
 {
   "includedFolders": [
-    "2. Projects",
-    "3. Areas"
+    "🏠 Personal/1. Projects",
+    "🏠 Personal/2. Areas",
+    "🏠 Personal/3. Resources/Contacts/👬 People",
+    "💼 Work/1. Projects",
+    "💼 Work/2. Areas"
   ],
-  "excludedFolders": []
+  "excludedFolders": [],
+  "useFrontmatter": true
 }
