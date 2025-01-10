@@ -5,6 +5,41 @@
       "ctime": 1733421864491,
       "path": "1. Inbox/Journals/Journals.md",
       "title": "Journals List"
+    },
+    {
+      "type": "group",
+      "ctime": 1736513250733,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736513213975,
+          "path": "🏠 Personal/1. Projects/Learn How to Use Obsidians/Learn How to Use Obsidians.md"
+        }
+      ],
+      "title": "📍 PIN / ON-GOING"
+    },
+    {
+      "type": "group",
+      "ctime": 1736513265866,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736513238705,
+          "path": "ZZ - Settings/✅ PENDING TODO.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1736513224871,
+          "path": "🏠 Personal/📝 Journals/📝 Journals.md"
+        }
+      ],
+      "title": "🥰 Personal"
+    },
+    {
+      "type": "group",
+      "ctime": 1736513273950,
+      "items": [],
+      "title": "💼 Work"
     }
   ]
 }

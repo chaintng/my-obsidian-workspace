@@ -3,6 +3,23 @@ div[data-path="ZZ - Settings/user-scripts"] {
     display: none;
 }
 
+/* Set Interview Result Color */
+.tag[href="#PASS"] {
+    background-color: #138342;
+    color: #FFFFFF;
+}
+
+.tag[href="#PASSw/Cond"] {
+    background-color: #a19318;
+    color: #FFFFFF;
+}
+
+.tag[href="#REJECT"] {
+    background-color: #E74C3C;
+    color: #FFFFFF;
+}
+
+
 /* Border on different mode */
 div[data-mode=source] div.view-content > div:not(.is-live-preview) {
     border-top: 2px dashed #FFA500;
@@ -10,7 +27,7 @@ div[data-mode=source] div.view-content > div:not(.is-live-preview) {
     span.cm-url {
         pointer-events: none;
         text-decoration: none;
-        color: inherit; 
+        color: inherit;
       }
 }
 
@@ -18,7 +35,20 @@ div.view-content > div.is-live-preview {
     border-top: 2px solid #FFA500;
 }
 
+/* Active Tab */
+/* div.workspace-tab-header.is-active {
+    box-shadow: 0px 0px 0px 1px #FFA500;
+} */
+
+
 /** Hide Todo if empty **/
-.homepage div.callout:not(:has(.contains-task-list)) {
+.homepage div.callout[data-callout="todo"]:not(:has(.contains-task-list)) {
     display: none !important;
 }
+
+/** Call out with no-icon **/
+.callout:is([data-callout-metadata^="noicon"]) .callout-icon {
+    display: none;
+}
+
+/**

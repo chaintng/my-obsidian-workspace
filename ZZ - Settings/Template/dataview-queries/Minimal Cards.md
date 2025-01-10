@@ -1,9 +1,9 @@
 ---
-created: 2024-11-25T22:34:23+07:00
-modified: 2024-11-25T22:34:23+07:00
-references: 
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+modified: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+references:
 favourite: false
-template: general
+template: "[[General]]"
 tags:
 ---
 
@@ -16,5 +16,10 @@ WHERE 1=1
 AND contains(file.path, this.file.folder)
 ```
 
-## References
--  
+```
+cssclasses:
+- cards
+- cards-cols-3
+- cards-cover
+- cards-1-1
+```

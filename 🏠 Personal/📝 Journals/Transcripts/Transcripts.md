@@ -1,15 +1,16 @@
 ---
 created: 2024-11-16T02:43:45+07:00
-modified: 2024-11-18T00:13:43+07:00
+modified: 2025-01-10T19:35:31+07:00
 references: 
 favourite: false
-template: general
-tags: 
+template: "[[General]]"
+tags:
+  - folder-note
 ---
 
 ```dataview
 TABLE WITHOUT ID
-file.link AS Note, 
+file.link AS Note,
 dateformat(created, "yyyy-MM-dd") AS " Created  "
 FROM ""
 WHERE contains(file.path, this.file.folder)

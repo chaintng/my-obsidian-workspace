@@ -16,13 +16,23 @@ git_diff.txt
 .obsidian/copilot-*.*
 
 # Archives document
-4. Resources/Archives/copilot-conversations
+🏠 Personal/4. Archives/copilot-conversations
 
 # Voice Journal
-1. Inbox/Journals/**/*.webm
-1. Inbox/Journals/**/*.m4a
-1. Inbox/Journals/**/*.wav
-1. Inbox/Journals/**/*.mp3
+🏠 Personal/📝 Journals/**/*.webm
+🏠 Personal/📝 Journals/**/*.m4a
+🏠 Personal/📝 Journals/**/*.wav
+🏠 Personal/📝 Journals/**/*.mp3
+🏠 Personal/📝 Journals/**/*.mp4
+*.mov
+
+# my plugins
+quick-share-note-to-gist-dev/
+view-mode-toggle/
+node_modules/
+hot-reload/
+.github/
+
 *.out
 
 .vscode

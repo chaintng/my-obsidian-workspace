@@ -1,19 +1,18 @@
 ---
-created: 2024-11-25T22:34:23+07:00
-modified: 2024-11-25T22:34:23+07:00
-template: work-adhoc
 tags:
   - todo
-databases: "[[ADHOC]]"
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+modified: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+template: "[[Work Adhoc]]"
 ---
 
-## Issues
+# Issues
 
 | TIME | DURATION | ADHOC_BY | ISSUE | REF |
 | ---- | -------- | -------- | ----- |---- |
 
 
-## List TODO
+# List TODO
 
 
-## Notes
+# Notes

@@ -1,47 +1,17 @@
 {
   "choices": [
     {
-      "id": "872c1edd-0f37-4e13-9894-44a5b260455e",
-      "name": "Quick Note to Inbox",
-      "type": "Template",
-      "command": true,
-      "templatePath": "ZZ - Settings/Template/General.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "1. Inbox"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
       "id": "a268d62e-d8a9-4916-a784-48e4f9aa2606",
       "name": "Add My TODO Task",
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "1. Inbox/Journals/{{date}}.md",
+      "captureTo": "🏠 Personal/📝 Journals/{{date}}.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "ZZ - Settings/Template/Journals.md"
+        "template": "ZZ - Settings/Template/Journals Template.md"
       },
       "format": {
         "enabled": true,
@@ -49,7 +19,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## List TODO",
+        "after": "# List TODO",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -71,12 +41,12 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "1. Inbox/Journals/{{date}}.md",
+      "captureTo": "🏠 Personal/📝 Journals/{{date}}.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "ZZ - Settings/Template/Journals.md"
+        "template": "ZZ - Settings/Template/Journals Template.md"
       },
       "format": {
         "enabled": false,
@@ -106,7 +76,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "3. Areas/💼 Work/ADHOC/Work ADHOC - {{DATE}}.md",
+      "captureTo": "💼 Work/2. Areas/ADHOC/Work ADHOC - {{DATE}}.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
@@ -119,7 +89,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## Issues",
+        "after": "# Issues",
         "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -148,7 +118,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "3. Areas/💼 Work"
+          "💼 Work/2. Areas/📥 Inbox"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -171,7 +141,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "1. Inbox/Temporary Note.md",
+      "captureTo": "ZZ - Settings/Temporary Note.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
@@ -318,7 +288,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "3. Areas/🏠 Personal"
+          "🏠 Personal/2. Areas/📥 Inbox"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -334,41 +304,6 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
-    },
-    {
-      "id": "cd33f93b-711b-4a39-ae91-d4c0a9861838",
-      "name": "Add Work TODO Task",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "3. Areas/💼 Work/ADHOC/Work ADHOC - {{date}}.md",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": true,
-        "template": "ZZ - Settings/Template/Work Adhoc.md"
-      },
-      "format": {
-        "enabled": true,
-        "format": "{{VALUE:task}} | ➕{{DATE:YYYY-MM-DDTHH:mm}}"
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "## List TODO",
-        "insertAtEnd": true,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": true,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default"
     },
     {
       "id": "d8d44f7b-2034-4e89-a8cb-ce7d70e2fe70",
@@ -410,10 +345,10 @@
       "name": "Jump to Today Journal",
       "type": "Template",
       "command": true,
-      "templatePath": "ZZ - Settings/Template/Journals.md",
+      "templatePath": "ZZ - Settings/Template/Journals Template.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "1. Inbox/Journals/{{date}}.md"
+        "format": "🏠 Personal/📝 Journals/{{date}}.md"
       },
       "folder": {
         "enabled": false,

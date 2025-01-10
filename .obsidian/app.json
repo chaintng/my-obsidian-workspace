@@ -5,7 +5,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachments",
   "trashOption": "local",
-  "livePreview": true,
+  "livePreview": false,
   "mobilePullAction": "omnisearch:show-modal",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
