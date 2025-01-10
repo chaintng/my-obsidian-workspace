@@ -1,7 +1,3 @@
----
-modified: 2025-01-10T19:56:02+07:00
-created: 2024-12-03T21:57:34+07:00
----
 # My Obsidian Workspace 🚀
 
 Welcome to my personal workspace! Here you'll find all the plugins and settings I use to supercharge my **Personal Knowledge Management** workflow. 💪
